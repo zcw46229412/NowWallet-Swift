@@ -1,0 +1,29 @@
+platform :ios, '10.0'
+
+target 'WalletSwift' do 
+  use_frameworks!
+  pod 'SnapKit', '~> 5.0.0'
+#  pod 'RxSwift', '~> 5'
+  pod 'RxCocoa', '~>4.5.0'
+  pod 'IQKeyboardManagerSwift','~> 6.2.1' 
+  pod 'SwiftyJSON', '~> 4.0'
+  pod 'HandyJSON', '~> 5.0.0'
+  pod 'ObjectMapper'
+  pod 'CYLTabBarController', '~> 1.24.0'
+  pod 'MarqueeLabel'
+  pod 'Moya/RxSwift'
+#  pod 'Moya-ObjectMapper/RxSwift'
+
+  # Pods for WalletSwift
+
+  target 'WalletSwiftTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'WalletSwiftUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

@@ -1,0 +1,1300 @@
+{
+"data": [{
+"en": "Afghanistan",
+"zh_hans": "阿富汗",
+"zh_hant": "阿富汗",
+"country_code": "93"
+},
+{
+"en": "Albania",
+"zh_hans": "阿尔巴尼亚",
+"zh_hant": "阿爾巴尼亞",
+"country_code": "355"
+},
+{
+"en": "Algeria",
+"zh_hans": "阿尔及利亚",
+"zh_hant": "阿爾及利亞",
+"country_code": "213"
+},
+{
+"en": "American Samoa",
+"zh_hans": "美属萨摩亚",
+"zh_hant": "美屬薩摩亞",
+"country_code": "684"
+},
+{
+"en": "Andorra",
+"zh_hans": "安道尔",
+"zh_hant": "安道爾",
+"country_code": "376"
+},
+{
+"en": "Angola",
+"zh_hans": "安哥拉",
+"zh_hant": "安哥拉",
+"country_code": "244"
+},
+{
+"en": "Anguilla",
+"zh_hans": "安圭拉岛",
+"zh_hant": "安圭拉島",
+"country_code": "1264"
+},
+{
+"en": "Antigua and Barbuda",
+"zh_hans": "安提瓜和巴布达",
+"zh_hant": "安提瓜和巴布達",
+"country_code": "1268"
+},
+{
+"en": "Argentina",
+"zh_hans": "阿根廷",
+"zh_hant": "阿根廷",
+"country_code": "54"
+},
+{
+"en": "Armenia",
+"zh_hans": "亚美尼亚",
+"zh_hant": "亞美尼亞",
+"country_code": "374"
+},
+{
+"en": "Aruba",
+"zh_hans": "阿鲁巴",
+"zh_hant": "阿魯巴",
+"country_code": "297"
+},
+{
+"en": "Australia",
+"zh_hans": "澳大利亚",
+"zh_hant": "澳大利亞",
+"country_code": "61"
+},
+{
+"en": "Austria",
+"zh_hans": "奥地利",
+"zh_hant": "奧地利",
+"country_code": "43"
+},
+{
+"en": "Azerbaijan",
+"zh_hans": "阿塞拜疆",
+"zh_hant": "阿塞拜疆",
+"country_code": "994"
+},
+{
+"en": "Bahamas",
+"zh_hans": "巴哈马群岛",
+"zh_hant": "巴哈馬群島",
+"country_code": "1242"
+},
+{
+"en": "Bahrain",
+"zh_hans": "巴林",
+"zh_hant": "巴林",
+"country_code": "973"
+},
+{
+"en": "Bangladesh",
+"zh_hans": "孟加拉共和国",
+"zh_hant": "孟加拉共和國",
+"country_code": "880"
+},
+{
+"en": "Barbados",
+"zh_hans": "巴巴多斯",
+"zh_hant": "巴巴多斯",
+"country_code": "1246"
+},
+{
+"en": "Belarus",
+"zh_hans": "白俄罗斯",
+"zh_hant": "白俄羅斯",
+"country_code": "375"
+},
+{
+"en": "Belgium",
+"zh_hans": "比利时",
+"zh_hant": "比利時",
+"country_code": "32"
+},
+{
+"en": "Belize",
+"zh_hans": "伯利兹",
+"zh_hant": "伯利茲",
+"country_code": "501"
+},
+{
+"en": "Benin",
+"zh_hans": "贝宁",
+"zh_hant": "貝寧",
+"country_code": "229"
+},
+{
+"en": "Bermuda",
+"zh_hans": "百慕大群岛",
+"zh_hant": "百慕大群島",
+"country_code": "1441"
+},
+{
+"en": "Bhutan",
+"zh_hans": "不丹",
+"zh_hant": "不丹",
+"country_code": "975"
+},
+{
+"en": "Bolivia",
+"zh_hans": "玻利维亚",
+"zh_hant": "玻利維亞",
+"country_code": "591"
+},
+{
+"en": "Bosnia and Herzegovina",
+"zh_hans": "波黑(波斯尼亚和黑塞哥维那)",
+"zh_hant": "波黑(波斯尼亞和黑塞哥維那)",
+"country_code": "387"
+},
+{
+"en": "Botswana",
+"zh_hans": "博茨瓦纳",
+"zh_hant": "博茨瓦納",
+"country_code": "267"
+},
+{
+"en": "Brazil",
+"zh_hans": "巴西",
+"zh_hant": "巴西",
+"country_code": "55"
+},
+{
+"en": "Brunei Darussalam",
+"zh_hans": "文莱达鲁萨兰国",
+"zh_hant": "文萊達魯薩蘭國",
+"country_code": "673"
+},
+{
+"en": "Bulgaria",
+"zh_hans": "保加利亚",
+"zh_hant": "保加利亞",
+"country_code": "359"
+},
+{
+"en": "Burkina Faso",
+"zh_hans": "布基纳法索",
+"zh_hant": "布基納法索",
+"country_code": "226"
+},
+{
+"en": "Burundi",
+"zh_hans": "布隆迪",
+"zh_hant": "布隆迪",
+"country_code": "257"
+},
+{
+"en": "Cambodia",
+"zh_hans": "柬埔寨",
+"zh_hant": "柬埔寨",
+"country_code": "855"
+},
+{
+"en": "Cameroon",
+"zh_hans": "喀麦隆",
+"zh_hant": "喀麥隆",
+"country_code": "237"
+},
+{
+"en": "Canada",
+"zh_hans": "加拿大",
+"zh_hant": "加拿大",
+"country_code": "1"
+},
+{
+"en": "Cape Verde",
+"zh_hans": "佛得角",
+"zh_hant": "佛得角",
+"country_code": "238"
+},
+{
+"en": "Cayman Islands",
+"zh_hans": "开曼群岛",
+"zh_hant": "開曼群島",
+"country_code": "1345"
+},
+{
+"en": "Central African Republic",
+"zh_hans": "中非共和国",
+"zh_hant": "中非共和國",
+"country_code": "236"
+},
+{
+"en": "Chad",
+"zh_hans": "乍得",
+"zh_hant": "乍得",
+"country_code": "235"
+},
+{
+"en": "Chile",
+"zh_hans": "智利",
+"zh_hant": "智利",
+"country_code": "56"
+},
+{
+"en": "China",
+"zh_hans": "中国",
+"zh_hant": "中國",
+"country_code": "86"
+},
+{
+"en": "Colombia",
+"zh_hans": "哥伦比亚",
+"zh_hant": "哥倫比亞",
+"country_code": "57"
+},
+{
+"en": "Comoros",
+"zh_hans": "科摩罗",
+"zh_hant": "科摩羅",
+"country_code": "269"
+},
+{
+"en": "Congo",
+"zh_hans": "刚果",
+"zh_hant": "剛果",
+"country_code": "242"
+},
+{
+"en": "Congo The Democratic Republic",
+"zh_hans": "刚果民主共和国",
+"zh_hant": "剛果民主共和國",
+"country_code": "243"
+},
+{
+"en": "Cook Islands",
+"zh_hans": "库克群岛",
+"zh_hant": "庫克群島",
+"country_code": "682"
+},
+{
+"en": "Costa Rica",
+"zh_hans": "哥斯达黎加",
+"zh_hant": "哥斯達黎加",
+"country_code": "506"
+},
+{
+"en": "Cote D'ivoire",
+"zh_hans": "科特迪瓦",
+"zh_hant": "科特迪瓦",
+"country_code": "225"
+},
+{
+"en": "Croatia",
+"zh_hans": "克罗地亚",
+"zh_hant": "克羅地亞",
+"country_code": "385"
+},
+{
+"en": "Cuba",
+"zh_hans": "古巴",
+"zh_hant": "古巴",
+"country_code": "53"
+},
+{
+"en": "Cyprus",
+"zh_hans": "塞浦路斯",
+"zh_hant": "塞浦路斯",
+"country_code": "357"
+},
+{
+"en": "Czech Republic",
+"zh_hans": "捷克共和国",
+"zh_hant": "捷克共和國",
+"country_code": "420"
+},
+{
+"en": "Denmark",
+"zh_hans": "丹麦",
+"zh_hant": "丹麥",
+"country_code": "45"
+},
+{
+"en": "Djibouti",
+"zh_hans": "吉布提",
+"zh_hant": "吉布提",
+"country_code": "253"
+},
+{
+"en": "Dominica",
+"zh_hans": "多米尼克",
+"zh_hant": "多米尼克",
+"country_code": "1767"
+},
+{
+"en": "Dominican Republic",
+"zh_hans": "多米尼加共和国",
+"zh_hant": "多米尼加共和國",
+"country_code": "1890"
+},
+{
+"en": "Ecuador",
+"zh_hans": "厄瓜多尔",
+"zh_hant": "厄瓜多爾",
+"country_code": "593"
+},
+{
+"en": "Egypt",
+"zh_hans": "埃及",
+"zh_hant": "埃及",
+"country_code": "20"
+},
+{
+"en": "El Salvador",
+"zh_hans": "萨尔瓦多",
+"zh_hant": "薩爾瓦多",
+"country_code": "503"
+},
+{
+"en": "Equatorial Guinea",
+"zh_hans": "赤道几内亚",
+"zh_hant": "赤道幾內亞",
+"country_code": "240"
+},
+{
+"en": "Eritrea",
+"zh_hans": "厄立特里亚",
+"zh_hant": "厄立特裏亞",
+"country_code": "291"
+},
+{
+"en": "Estonia",
+"zh_hans": "爱沙尼亚",
+"zh_hant": "愛沙尼亞",
+"country_code": "372"
+},
+{
+"en": "Ethiopia",
+"zh_hans": "埃塞俄比亚",
+"zh_hant": "埃塞俄比亞",
+"country_code": "251"
+},
+{
+"en": "Falkland Islands (Malvinas)",
+"zh_hans": "福克兰群岛",
+"zh_hant": "福克蘭群島",
+"country_code": "500"
+},
+{
+"en": "Faroe Islands",
+"zh_hans": "法罗群岛",
+"zh_hant": "法羅群島",
+"country_code": "298"
+},
+{
+"en": "Fiji",
+"zh_hans": "斐济",
+"zh_hant": "斐濟",
+"country_code": "679"
+},
+{
+"en": "Finland",
+"zh_hans": "芬兰",
+"zh_hant": "芬蘭",
+"country_code": "358"
+},
+{
+"en": "France",
+"zh_hans": "法国",
+"zh_hant": "法國",
+"country_code": "33"
+},
+{
+"en": "French Guiana",
+"zh_hans": "法属圭亚那",
+"zh_hant": "法屬圭亞那",
+"country_code": "594"
+},
+{
+"en": "French Polynesia",
+"zh_hans": "法属玻利尼西亚",
+"zh_hant": "法屬玻利尼西亞",
+"country_code": "689"
+},
+{
+"en": "Gabon",
+"zh_hans": "加蓬",
+"zh_hant": "加蓬",
+"country_code": "241"
+},
+{
+"en": "Gambia",
+"zh_hans": "冈比亚",
+"zh_hant": "岡比亞",
+"country_code": "220"
+},
+{
+"en": "Georgia",
+"zh_hans": "格鲁吉亚",
+"zh_hant": "格魯吉亞",
+"country_code": "995"
+},
+{
+"en": "Germany",
+"zh_hans": "德国",
+"zh_hant": "德國",
+"country_code": "49"
+},
+{
+"en": "Ghana",
+"zh_hans": "加纳",
+"zh_hant": "加納",
+"country_code": "233"
+},
+{
+"en": "Gibraltar",
+"zh_hans": "直布罗陀",
+"zh_hant": "直布羅陀",
+"country_code": "350"
+},
+{
+"en": "Greece",
+"zh_hans": "希腊",
+"zh_hant": "希臘",
+"country_code": "30"
+},
+{
+"en": "Greenland",
+"zh_hans": "格陵兰岛",
+"zh_hant": "格陵蘭島",
+"country_code": "299"
+},
+{
+"en": "Grenada",
+"zh_hans": "格林纳达",
+"zh_hant": "格林納達",
+"country_code": "1809"
+},
+{
+"en": "Guadeloupe",
+"zh_hans": "瓜德罗普",
+"zh_hant": "瓜德羅普",
+"country_code": "590"
+},
+{
+"en": "Guam",
+"zh_hans": "关岛",
+"zh_hant": "關島",
+"country_code": "671"
+},
+{
+"en": "Guatemala",
+"zh_hans": "危地马拉",
+"zh_hant": "危地馬拉",
+"country_code": "502"
+},
+{
+"en": "Guernsey",
+"zh_hans": "根西",
+"zh_hant": "根西",
+"country_code": "44"
+},
+{
+"en": "Guinea",
+"zh_hans": "几内亚",
+"zh_hant": "幾內亞",
+"country_code": "675"
+},
+{
+"en": "Guinea-Bissau",
+"zh_hans": "几内亚比绍共和国",
+"zh_hant": "幾內亞比紹共和國",
+"country_code": "245"
+},
+{
+"en": "Guyana",
+"zh_hans": "圭亚那",
+"zh_hant": "圭亞那",
+"country_code": "592"
+},
+{
+"en": "Haiti",
+"zh_hans": "海地",
+"zh_hant": "海地",
+"country_code": "509"
+},
+{
+"en": "Honduras",
+"zh_hans": "洪都拉斯",
+"zh_hant": "洪都拉斯",
+"country_code": "504"
+},
+{
+"en": "Hong Kong",
+"zh_hans": "中国香港",
+"zh_hant": "中國香港",
+"country_code": "852"
+},
+{
+"en": "Hungary",
+"zh_hans": "匈牙利",
+"zh_hant": "匈牙利",
+"country_code": "36"
+},
+{
+"en": "Iceland",
+"zh_hans": "冰岛",
+"zh_hant": "冰島",
+"country_code": "354"
+},
+{
+"en": "India",
+"zh_hans": "印度",
+"zh_hant": "印度",
+"country_code": "91"
+},
+{
+"en": "Indonesia",
+"zh_hans": "印度尼西亚",
+"zh_hant": "印度尼西亞",
+"country_code": "62"
+},
+{
+"en": "Iran Islamic Republic",
+"zh_hans": "伊朗",
+"zh_hant": "伊朗",
+"country_code": "98"
+},
+{
+"en": "Iraq",
+"zh_hans": "伊拉克",
+"zh_hant": "伊拉克",
+"country_code": "964"
+},
+{
+"en": "Ireland",
+"zh_hans": "爱尔兰",
+"zh_hant": "愛爾蘭",
+"country_code": "353"
+},
+{
+"en": "Isle of Man",
+"zh_hans": "马恩",
+"zh_hant": "馬恩",
+"country_code": "44"
+},
+{
+"en": "Israel",
+"zh_hans": "以色列",
+"zh_hant": "以色列",
+"country_code": "972"
+},
+{
+"en": "Italy",
+"zh_hans": "意大利",
+"zh_hant": "意大利",
+"country_code": "39"
+},
+{
+"en": "Jamaica",
+"zh_hans": "牙买加",
+"zh_hant": "牙買加",
+"country_code": "1876"
+},
+{
+"en": "Japan",
+"zh_hans": "日本",
+"zh_hant": "日本",
+"country_code": "81"
+},
+{
+"en": "Jersey",
+"zh_hans": "泽西",
+"zh_hant": "澤西",
+"country_code": "44"
+},
+{
+"en": "Jordan",
+"zh_hans": "约旦",
+"zh_hant": "約旦",
+"country_code": "962"
+},
+{
+"en": "Kazakhstan",
+"zh_hans": "哈萨克斯坦",
+"zh_hant": "哈薩克斯坦",
+"country_code": "7"
+},
+{
+"en": "Kenya",
+"zh_hans": "肯尼亚",
+"zh_hant": "肯尼亞",
+"country_code": "254"
+},
+{
+"en": "Korea Democratic People's Republic",
+"zh_hans": "朝鲜",
+"zh_hant": "朝鮮",
+"country_code": "850"
+},
+{
+"en": "Korea Republic",
+"zh_hans": "韩国",
+"zh_hant": "韓國",
+"country_code": "82"
+},
+{
+"en": "Kosovo",
+"zh_hans": "科索沃",
+"zh_hant": "科索沃",
+"country_code": "381"
+},
+{
+"en": "Kuwait",
+"zh_hans": "科威特",
+"zh_hant": "科威特",
+"country_code": "965"
+},
+{
+"en": "Kyrgyzstan",
+"zh_hans": "吉尔吉斯斯坦",
+"zh_hant": "吉爾吉斯斯坦",
+"country_code": "996"
+},
+{
+"en": "Lao People's Democratic Republic",
+"zh_hans": "老挝人民民主共和国",
+"zh_hant": "老撾人民民主共和國",
+"country_code": "856"
+},
+{
+"en": "Latvia",
+"zh_hans": "拉脱维亚",
+"zh_hant": "拉脫維亞",
+"country_code": "371"
+},
+{
+"en": "Lebanon",
+"zh_hans": "黎巴嫩",
+"zh_hant": "黎巴嫩",
+"country_code": "961"
+},
+{
+"en": "Lesotho",
+"zh_hans": "莱索托",
+"zh_hant": "萊索托",
+"country_code": "266"
+},
+{
+"en": "Liberia",
+"zh_hans": "利比里亚",
+"zh_hant": "利比裏亞",
+"country_code": "231"
+},
+{
+"en": "Libyan Arab Jamahiriya",
+"zh_hans": "利比亚",
+"zh_hant": "利比亞",
+"country_code": "218"
+},
+{
+"en": "Liechtenstein",
+"zh_hans": "列支敦斯登",
+"zh_hant": "列支敦斯登",
+"country_code": "423"
+},
+{
+"en": "Lithuania",
+"zh_hans": "立陶宛",
+"zh_hant": "立陶宛",
+"country_code": "370"
+},
+{
+"en": "Luxembourg",
+"zh_hans": "卢森堡",
+"zh_hant": "盧森堡",
+"country_code": "352"
+},
+{
+"en": "Macao",
+"zh_hans": "中国澳门",
+"zh_hant": "中國澳門",
+"country_code": "853"
+},
+{
+"en": "Macedonia",
+"zh_hans": "马其顿王国",
+"zh_hant": "馬其頓王國",
+"country_code": "389"
+},
+{
+"en": "Madagascar",
+"zh_hans": "马达加斯加",
+"zh_hant": "馬達加斯加",
+"country_code": "261"
+},
+{
+"en": "Malawi",
+"zh_hans": "马拉维",
+"zh_hant": "馬拉維",
+"country_code": "265"
+},
+{
+"en": "Malaysia",
+"zh_hans": "马来西亚",
+"zh_hant": "馬來西亞",
+"country_code": "60"
+},
+{
+"en": "Maldives",
+"zh_hans": "马尔代夫",
+"zh_hant": "馬爾代夫",
+"country_code": "960"
+},
+{
+"en": "Mali",
+"zh_hans": "马里",
+"zh_hant": "馬裏",
+"country_code": "223"
+},
+{
+"en": "Malta",
+"zh_hans": "马耳他",
+"zh_hant": "馬耳他",
+"country_code": "356"
+},
+{
+"en": "Martinique",
+"zh_hans": "马提尼克",
+"zh_hant": "馬提尼克",
+"country_code": "596"
+},
+{
+"en": "Mauritania",
+"zh_hans": "毛里塔尼亚",
+"zh_hant": "毛裏塔尼亞",
+"country_code": "222"
+},
+{
+"en": "Mauritius",
+"zh_hans": "毛里求斯",
+"zh_hant": "毛裏求斯",
+"country_code": "230"
+},
+{
+"en": "Mexico",
+"zh_hans": "墨西哥",
+"zh_hant": "墨西哥",
+"country_code": "52"
+},
+{
+"en": "Moldova",
+"zh_hans": "摩尔多瓦",
+"zh_hant": "摩爾多瓦",
+"country_code": "373"
+},
+{
+"en": "Monaco",
+"zh_hans": "摩纳哥",
+"zh_hant": "摩納哥",
+"country_code": "377"
+},
+{
+"en": "Mongolia",
+"zh_hans": "蒙古",
+"zh_hant": "蒙古",
+"country_code": "976"
+},
+{
+"en": "Montenegro",
+"zh_hans": "黑山共和国",
+"zh_hant": "黑山共和國",
+"country_code": "382"
+},
+{
+"en": "Montserrat",
+"zh_hans": "蒙特塞拉特岛",
+"zh_hant": "蒙特塞拉特島",
+"country_code": "1664"
+},
+{
+"en": "Morocco",
+"zh_hans": "摩洛哥",
+"zh_hant": "摩洛哥",
+"country_code": "212"
+},
+{
+"en": "Mozambique",
+"zh_hans": "莫桑比克",
+"zh_hant": "莫桑比克",
+"country_code": "258"
+},
+{
+"en": "Myanmar",
+"zh_hans": "缅甸",
+"zh_hant": "緬甸",
+"country_code": "95"
+},
+{
+"en": "Namibia",
+"zh_hans": "纳米比亚",
+"zh_hant": "納米比亞",
+"country_code": "264"
+},
+{
+"en": "Nepal",
+"zh_hans": "尼泊尔",
+"zh_hant": "尼泊爾",
+"country_code": "977"
+},
+{
+"en": "Netherlands",
+"zh_hans": "荷兰",
+"zh_hant": "荷蘭",
+"country_code": "31"
+},
+{
+"en": "Netherlands Antilles",
+"zh_hans": "荷属安的列斯群岛",
+"zh_hant": "荷屬安的列斯群島",
+"country_code": "599"
+},
+{
+"en": "New Caledonia",
+"zh_hans": "新喀里多尼亚",
+"zh_hant": "新喀裏多尼亞",
+"country_code": "687"
+},
+{
+"en": "New Zealand",
+"zh_hans": "新西兰",
+"zh_hant": "新西蘭",
+"country_code": "64"
+},
+{
+"en": "Nicaragua",
+"zh_hans": "尼加拉瓜",
+"zh_hant": "尼加拉瓜",
+"country_code": "505"
+},
+{
+"en": "Niger",
+"zh_hans": "尼日尔",
+"zh_hant": "尼日爾",
+"country_code": "227"
+},
+{
+"en": "Nigeria",
+"zh_hans": "尼日利亚",
+"zh_hant": "尼日利亞",
+"country_code": "234"
+},
+{
+"en": "Norway",
+"zh_hans": "挪威",
+"zh_hant": "挪威",
+"country_code": "47"
+},
+{
+"en": "Oman",
+"zh_hans": "阿曼",
+"zh_hant": "阿曼",
+"country_code": "968"
+},
+{
+"en": "Pakistan",
+"zh_hans": "巴基斯坦",
+"zh_hant": "巴基斯坦",
+"country_code": "92"
+},
+{
+"en": "Palau",
+"zh_hans": "帕劳",
+"zh_hant": "帕勞",
+"country_code": "680"
+},
+{
+"en": "Panama",
+"zh_hans": "巴拿马",
+"zh_hant": "巴拿馬",
+"country_code": "507"
+},
+{
+"en": "Papua New Guinea",
+"zh_hans": "巴布亚新几内亚",
+"zh_hant": "巴布亞新幾內亞",
+"country_code": "675"
+},
+{
+"en": "Paraguay",
+"zh_hans": "巴拉圭",
+"zh_hant": "巴拉圭",
+"country_code": "595"
+},
+{
+"en": "Peru",
+"zh_hans": "秘鲁",
+"zh_hant": "秘魯",
+"country_code": "51"
+},
+{
+"en": "Philippines",
+"zh_hans": "菲律宾",
+"zh_hant": "菲律賓",
+"country_code": "63"
+},
+{
+"en": "Poland",
+"zh_hans": "波兰",
+"zh_hant": "波蘭",
+"country_code": "48"
+},
+{
+"en": "Portugal",
+"zh_hans": "葡萄牙",
+"zh_hant": "葡萄牙",
+"country_code": "351"
+},
+{
+"en": "Puerto Rico",
+"zh_hans": "波多黎各",
+"zh_hant": "波多黎各",
+"country_code": "1787"
+},
+{
+"en": "Qatar",
+"zh_hans": "卡塔尔",
+"zh_hant": "卡塔爾",
+"country_code": "974"
+},
+{
+"en": "Reunion",
+"zh_hans": "留尼旺",
+"zh_hant": "留尼旺",
+"country_code": "262"
+},
+{
+"en": "Romania",
+"zh_hans": "罗马尼亚",
+"zh_hant": "羅馬尼亞",
+"country_code": "40"
+},
+{
+"en": "Russian Federation",
+"zh_hans": "俄罗斯联邦",
+"zh_hant": "俄羅斯聯邦",
+"country_code": "7"
+},
+{
+"en": "Rwanda",
+"zh_hans": "卢旺达",
+"zh_hant": "盧旺達",
+"country_code": "250"
+},
+{
+"en": "Saint Kitts and Nevis",
+"zh_hans": "圣基茨和尼维斯",
+"zh_hant": "聖基茨和尼維斯",
+"country_code": "1869"
+},
+{
+"en": "Saint Lucia",
+"zh_hans": "圣卢西亚岛",
+"zh_hant": "聖盧西亞島",
+"country_code": "1758"
+},
+{
+"en": "Saint Vincent and the Grenadines",
+"zh_hans": "圣文森特和格林纳丁斯",
+"zh_hant": "聖文森特和格林納丁斯",
+"country_code": "1784"
+},
+{
+"en": "Samoa",
+"zh_hans": "萨摩亚群岛",
+"zh_hant": "薩摩亞群島",
+"country_code": "684"
+},
+{
+"en": "San Marino",
+"zh_hans": "圣马力诺",
+"zh_hant": "聖馬力諾",
+"country_code": "378"
+},
+{
+"en": "Saudi Arabia",
+"zh_hans": "沙特阿拉伯",
+"zh_hant": "沙特阿拉伯",
+"country_code": "966"
+},
+{
+"en": "Senegal",
+"zh_hans": "塞内加尔",
+"zh_hant": "塞內加爾",
+"country_code": "221"
+},
+{
+"en": "Serbia",
+"zh_hans": "塞尔维亚",
+"zh_hant": "塞爾維亞",
+"country_code": "381"
+},
+{
+"en": "Seychelles",
+"zh_hans": "塞舌尔",
+"zh_hant": "塞舌爾",
+"country_code": "248"
+},
+{
+"en": "Sierra Leone",
+"zh_hans": "塞拉利昂",
+"zh_hant": "塞拉利昂",
+"country_code": "232"
+},
+{
+"en": "Singapore",
+"zh_hans": "新加坡",
+"zh_hant": "新加坡",
+"country_code": "65"
+},
+{
+"en": "Slovakia",
+"zh_hans": "斯洛伐克",
+"zh_hant": "斯洛伐克",
+"country_code": "421"
+},
+{
+"en": "Slovenia",
+"zh_hans": "斯洛文尼亚",
+"zh_hant": "斯洛文尼亞",
+"country_code": "386"
+},
+{
+"en": "Solomon Islands",
+"zh_hans": "所罗门群岛",
+"zh_hant": "所羅門群島",
+"country_code": "677"
+},
+{
+"en": "Somalia",
+"zh_hans": "索马里",
+"zh_hant": "索馬裏",
+"country_code": "252"
+},
+{
+"en": "South Africa",
+"zh_hans": "南非",
+"zh_hant": "南非",
+"country_code": "27"
+},
+{
+"en": "South Sudan",
+"zh_hans": "南苏丹",
+"zh_hant": "南蘇丹",
+"country_code": "211"
+},
+{
+"en": "Spain",
+"zh_hans": "西班牙",
+"zh_hant": "西班牙",
+"country_code": "34"
+},
+{
+"en": "Sri Lanka",
+"zh_hans": "斯里兰卡",
+"zh_hant": "斯裏蘭卡",
+"country_code": "94"
+},
+{
+"en": "Sudan",
+"zh_hans": "苏丹",
+"zh_hant": "蘇丹",
+"country_code": "249"
+},
+{
+"en": "Suriname",
+"zh_hans": "苏里南",
+"zh_hant": "蘇裏南",
+"country_code": "597"
+},
+{
+"en": "Swaziland",
+"zh_hans": "斯威士兰",
+"zh_hant": "斯威士蘭",
+"country_code": "268"
+},
+{
+"en": "Sweden",
+"zh_hans": "瑞典",
+"zh_hant": "瑞典",
+"country_code": "46"
+},
+{
+"en": "Switzerland",
+"zh_hans": "瑞士",
+"zh_hant": "瑞士",
+"country_code": "41"
+},
+{
+"en": "Syrian Arab Republic",
+"zh_hans": "阿拉伯叙利亚共和国",
+"zh_hant": "阿拉伯敘利亞共和國",
+"country_code": "963"
+},
+{
+"en": "Taiwan",
+"zh_hans": "中国台湾",
+"zh_hant": "中國臺灣",
+"country_code": "886"
+},
+{
+"en": "Tajikistan",
+"zh_hans": "塔吉克斯坦",
+"zh_hant": "塔吉克斯坦",
+"country_code": "992"
+},
+{
+"en": "Tanzania United Republic",
+"zh_hans": "坦桑尼亚",
+"zh_hant": "坦桑尼亞",
+"country_code": "255"
+},
+{
+"en": "Thailand",
+"zh_hans": "泰国",
+"zh_hant": "泰國",
+"country_code": "66"
+},
+{
+"en": "Timor-Leste",
+"zh_hans": "东帝汶",
+"zh_hant": "東帝汶",
+"country_code": "670"
+},
+{
+"en": "Togo",
+"zh_hans": "多哥",
+"zh_hant": "多哥",
+"country_code": "228"
+},
+{
+"en": "Tonga",
+"zh_hans": "汤加",
+"zh_hant": "湯加",
+"country_code": "676"
+},
+{
+"en": "Trinidad and Tobago",
+"zh_hans": "特立尼达和多巴哥",
+"zh_hant": "特立尼達和多巴哥",
+"country_code": "1809"
+},
+{
+"en": "Tunisia",
+"zh_hans": "突尼斯",
+"zh_hant": "突尼斯",
+"country_code": "216"
+},
+{
+"en": "Turkey",
+"zh_hans": "土耳其",
+"zh_hant": "土耳其",
+"country_code": "90"
+},
+{
+"en": "Turkmenistan",
+"zh_hans": "土库曼斯坦",
+"zh_hant": "土庫曼斯坦",
+"country_code": "993"
+},
+{
+"en": "Turks and Caicos Islands",
+"zh_hans": "特克斯和凯科斯群岛",
+"zh_hant": "特克斯和凱科斯群島",
+"country_code": "1649"
+},
+{
+"en": "Uganda",
+"zh_hans": "乌干达",
+"zh_hant": "烏幹達",
+"country_code": "256"
+},
+{
+"en": "Ukraine",
+"zh_hans": "乌克兰",
+"zh_hant": "烏克蘭",
+"country_code": "380"
+},
+{
+"en": "United Arab Emirates",
+"zh_hans": "阿拉伯联合酋长国",
+"zh_hant": "阿拉伯聯合酋長國",
+"country_code": "971"
+},
+{
+"en": "United Kingdom",
+"zh_hans": "英国",
+"zh_hant": "英國",
+"country_code": "44"
+},
+{
+"en": "United States",
+"zh_hans": "美国",
+"zh_hant": "美國",
+"country_code": "1"
+},
+{
+"en": "Uruguay",
+"zh_hans": "乌拉圭",
+"zh_hant": "烏拉圭",
+"country_code": "598"
+},
+{
+"en": "Uzbekistan",
+"zh_hans": "乌兹别克斯坦",
+"zh_hant": "烏茲別克斯坦",
+"country_code": "998"
+},
+{
+"en": "Vanuatu",
+"zh_hans": "瓦努阿图",
+"zh_hant": "瓦努阿圖",
+"country_code": "678"
+},
+{
+"en": "Venezuela",
+"zh_hans": "委内瑞拉",
+"zh_hant": "委內瑞拉",
+"country_code": "58"
+},
+{
+"en": "Viet Nam",
+"zh_hans": "越南",
+"zh_hant": "越南",
+"country_code": "84"
+},
+{
+"en": "Virgin Islands British",
+"zh_hans": "英属维尔京群岛",
+"zh_hant": "英屬維爾京群島",
+"country_code": "1340"
+},
+{
+"en": "Yemen",
+"zh_hans": "也门",
+"zh_hant": "也門",
+"country_code": "967"
+},
+{
+"en": "Zambia",
+"zh_hans": "赞比亚",
+"zh_hant": "贊比亞",
+"country_code": "260"
+},
+{
+"en": "Zimbabwe",
+"zh_hans": "津巴布韦",
+"zh_hant": "津巴布韋",
+"country_code": "263"
+}
+
+]
+}
